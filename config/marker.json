@@ -1,0 +1,6 @@
+{
+  "hsv_lower": [35, 80, 60],
+  "hsv_upper": [85, 255, 255],
+  "min_area_px": 20,
+  "tip_offset_px": [0, 0]
+}
