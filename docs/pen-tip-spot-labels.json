@@ -1,0 +1,88 @@
+{
+  "coordinate_space": "frames resized to width 1280, maintaining aspect ratio",
+  "annotation_method": "Visual tip estimates on unannotated frame crops with a 20-pixel grid; approximate uncertainty 5 working pixels",
+  "purpose": "Small development spot-check, not a held-out benchmark; initialization frame excluded",
+  "clips": [
+    {
+      "id": "4668324",
+      "labels": [
+        {
+          "frame": 50,
+          "tip_px": [
+            561,
+            405
+          ]
+        },
+        {
+          "frame": 100,
+          "tip_px": [
+            570,
+            437
+          ]
+        },
+        {
+          "frame": 150,
+          "tip_px": [
+            610,
+            456
+          ]
+        },
+        {
+          "frame": 200,
+          "tip_px": [
+            660,
+            452
+          ]
+        },
+        {
+          "frame": 250,
+          "tip_px": [
+            677,
+            438
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5391294",
+      "labels": [
+        {
+          "frame": 60,
+          "tip_px": [
+            1037,
+            566
+          ]
+        },
+        {
+          "frame": 120,
+          "tip_px": [
+            1032,
+            570
+          ]
+        },
+        {
+          "frame": 180,
+          "tip_px": [
+            1070,
+            556
+          ]
+        },
+        {
+          "frame": 240,
+          "tip_px": [
+            1135,
+            546
+          ]
+        },
+        {
+          "frame": 300,
+          "tip_px": [
+            1136,
+            592
+          ]
+        }
+      ]
+    }
+  ],
+  "coordinate_width": 1280
+}

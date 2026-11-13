@@ -1,0 +1,260 @@
+[
+  {
+    "video": "test-media/pexels-4668324.mp4",
+    "config": {
+      "hsv_lower": [
+        35,
+        80,
+        60
+      ],
+      "hsv_upper": [
+        85,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 25.0,
+    "original_size": [
+      1920,
+      1080
+    ],
+    "processing_scale": 0.6666666666666666,
+    "stride": 1,
+    "start_frame": 0,
+    "tracker": "pen",
+    "seed_original_px": [
+      1048.5,
+      712.5
+    ],
+    "anchor_original_px": [
+      1084.5,
+      787.5
+    ],
+    "frames_decoded": 373,
+    "samples": 373,
+    "detections": 361,
+    "hand_detections": null,
+    "median_processing_ms": 7.5408750000001135,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred.",
+    "spot_checks": [
+      {
+        "frame": 50,
+        "tip_px": [
+          561,
+          405
+        ],
+        "estimate_px": [
+          570.9951347623681,
+          403.8961418799388
+        ],
+        "error_px": 10.05590481593402
+      },
+      {
+        "frame": 100,
+        "tip_px": [
+          570,
+          437
+        ],
+        "estimate_px": [
+          579.9951347623681,
+          419.8961418799388
+        ],
+        "error_px": 19.810216594199154
+      },
+      {
+        "frame": 150,
+        "tip_px": [
+          610,
+          456
+        ],
+        "estimate_px": [
+          616.4423042262333,
+          446.0271452503751
+        ],
+        "error_px": 11.872704645549792
+      },
+      {
+        "frame": 200,
+        "tip_px": [
+          660,
+          452
+        ],
+        "estimate_px": [
+          666.4423042262333,
+          452.0271452503751
+        ],
+        "error_px": 6.442361415502983
+      },
+      {
+        "frame": 250,
+        "tip_px": [
+          677,
+          438
+        ],
+        "estimate_px": [
+          669.0,
+          446.0
+        ],
+        "error_px": 11.313708498984761
+      }
+    ],
+    "spot_median_error_at_width1280_px": 11.313708498984761,
+    "spot_max_error_at_width1280_px": 19.810216594199154,
+    "spot_labels_with_estimate": 5,
+    "spot_labels_total": 5
+  },
+  {
+    "video": "test-media/pexels-5391294.mp4",
+    "config": {
+      "hsv_lower": [
+        35,
+        80,
+        60
+      ],
+      "hsv_upper": [
+        85,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 29.97002997002997,
+    "original_size": [
+      3840,
+      2160
+    ],
+    "processing_scale": 0.3333333333333333,
+    "stride": 1,
+    "start_frame": 0,
+    "tracker": "pen",
+    "seed_original_px": [
+      3099.0,
+      1716.0
+    ],
+    "anchor_original_px": [
+      3036.0,
+      1605.0
+    ],
+    "frames_decoded": 754,
+    "samples": 754,
+    "detections": 740,
+    "hand_detections": null,
+    "median_processing_ms": 5.955062499999997,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred.",
+    "spot_checks": [
+      {
+        "frame": 60,
+        "tip_px": [
+          1037,
+          566
+        ],
+        "estimate_px": [
+          1035.0,
+          579.0
+        ],
+        "error_px": 13.152946437965905
+      },
+      {
+        "frame": 120,
+        "tip_px": [
+          1032,
+          570
+        ],
+        "estimate_px": [
+          1028.0,
+          579.0
+        ],
+        "error_px": 9.848857801796104
+      },
+      {
+        "frame": 180,
+        "tip_px": [
+          1070,
+          556
+        ],
+        "estimate_px": [
+          1069.0,
+          567.0
+        ],
+        "error_px": 11.045361017187261
+      },
+      {
+        "frame": 240,
+        "tip_px": [
+          1135,
+          546
+        ],
+        "estimate_px": null,
+        "error_px": null
+      },
+      {
+        "frame": 300,
+        "tip_px": [
+          1136,
+          592
+        ],
+        "estimate_px": [
+          1134.0,
+          601.0
+        ],
+        "error_px": 9.219544457292887
+      }
+    ],
+    "spot_median_error_at_width1280_px": 10.447109409491683,
+    "spot_max_error_at_width1280_px": 13.152946437965905,
+    "spot_labels_with_estimate": 4,
+    "spot_labels_total": 5
+  },
+  {
+    "video": "test-media/pexels-9573567.mp4",
+    "config": {
+      "hsv_lower": [
+        35,
+        80,
+        60
+      ],
+      "hsv_upper": [
+        85,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 25.0,
+    "original_size": [
+      4096,
+      2160
+    ],
+    "processing_scale": 0.3125,
+    "stride": 1,
+    "start_frame": 0,
+    "tracker": "pen",
+    "seed_original_px": [
+      2432.0,
+      976.0
+    ],
+    "anchor_original_px": [
+      2272.0,
+      1002.0
+    ],
+    "frames_decoded": 291,
+    "samples": 291,
+    "detections": 120,
+    "hand_detections": null,
+    "median_processing_ms": 0.013834000000656488,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred."
+  }
+]
