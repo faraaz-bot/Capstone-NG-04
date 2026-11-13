@@ -127,11 +127,11 @@ loss/reselection, session recording, perspective mapping and stroke boundaries.
 They do not establish physical accuracy.
 See [the project notes](docs/mcr-scope.md) for requirements and remaining work.
 
-Three downloaded writing clips were also tested. See the
-[internet video trials](docs/internet-video-trials.md) for sources, measured
-candidate counts, false matches, and a headless replay command.
-The [ordinary-pen follow-up](docs/ordinary-pen-trials.md) records the fixes, replay
-commands, spot checks and remaining limitations.
+Active video testing uses only bird's-eye footage looking down at the writing
+surface. See the [bird's-eye trials](docs/birds-eye-trials.md) for the current set.
+The [initial video trials](docs/internet-video-trials.md) and
+[ordinary-pen follow-up](docs/ordinary-pen-trials.md) are historical records that
+also contain angled clips excluded from the current scope.
 
 References: [OpenCV HSV thresholding](https://docs.opencv.org/4.x/da/d97/tutorial_threshold_inRange.html),
 [OpenCV perspective transforms](https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html),

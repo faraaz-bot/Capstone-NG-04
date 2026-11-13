@@ -8,8 +8,26 @@
       "download": "https://videos.pexels.com/video-files/4668324/4668324-hd_1920_1080_25fps.mp4",
       "local": "test-media/pexels-4668324.mp4",
       "purpose": "Overhead handwriting and pen-lift/hand-occlusion inspection; black pen, no green marker.",
-      "sha256": "fc30d7c0cd79c04a7c53b21ece921a0a791cfa1af4a725d124a7524318a6f0f9"
+      "sha256": "fc30d7c0cd79c04a7c53b21ece921a0a791cfa1af4a725d124a7524318a6f0f9",
+      "viewpoint": "birds_eye",
+      "viewpoint_verified_by": "Visual inspection of source frames",
+      "active": true
     },
+    {
+      "id": "3251846",
+      "author": "fauxels",
+      "page": "https://www.pexels.com/video/a-woman-writing-on-a-notebook-over-a-table-3251846/",
+      "download": "https://videos.pexels.com/video-files/3251846/3251846-uhd_3840_2160_25fps.mp4",
+      "local": "test-media/pexels-3251846.mp4",
+      "purpose": "Birds-eye flat-lay workspace with silver pen, notebook and intermittent tip occlusion",
+      "sha256": "a00194d35cd97254cee5aa86b0a36bf6a31d976b96eed7ef5752dae58e80f24c",
+      "viewpoint": "birds_eye",
+      "viewpoint_verified_by": "Visual inspection at 0, 3, 6 and 9 seconds",
+      "active": true
+    }
+  ],
+  "viewpoint_policy": "Birds-eye only: visually inspect frames looking down at the writing plane; exclude oblique and over-the-shoulder footage.",
+  "excluded_clips": [
     {
       "id": "5391294",
       "author": "Gustavo Fring",
@@ -17,7 +35,8 @@
       "download": "https://videos.pexels.com/video-files/5391294/5391294-uhd_3840_2160_30fps.mp4",
       "local": "test-media/pexels-5391294.mp4",
       "purpose": "Oblique close-up of silver pen; negative control for green-marker detection.",
-      "sha256": "91f0c33c21cd7228eb2a17ef3b8367a27ffa7bb89ade6e3db994b215395cce82"
+      "sha256": "91f0c33c21cd7228eb2a17ef3b8367a27ffa7bb89ade6e3db994b215395cce82",
+      "exclusion_reason": "Angled view; excluded from active birds-eye-only testing"
     },
     {
       "id": "9573567",
@@ -26,7 +45,14 @@
       "download": "https://videos.pexels.com/video-files/9573567/9573567-uhd_4096_2160_25fps.mp4",
       "local": "test-media/pexels-9573567.mp4",
       "purpose": "Light-blue pen with blue/purple desk distractor and hand occlusion; exploratory colour retuning.",
-      "sha256": "12f232351f5a8b146dbff6f7e4bc3182165fcaf2e8c1a7cb97d8e74791f78119"
+      "sha256": "12f232351f5a8b146dbff6f7e4bc3182165fcaf2e8c1a7cb97d8e74791f78119",
+      "exclusion_reason": "Angled view; excluded from active birds-eye-only testing"
+    },
+    {
+      "id": "6930351",
+      "page": "https://www.pexels.com/video/a-person-working-and-writing-on-a-notebook-6930351/",
+      "local": "test-media/pexels-6930351.mp4",
+      "exclusion_reason": "Source described overhead, but inspected frames show an angled over-the-shoulder view. Not tracking-tested."
     }
   ]
 }

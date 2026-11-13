@@ -1,5 +1,10 @@
 # Ordinary-pen tracking follow-up
 
+Historical record: the silver- and blue-pen clips below use angled views and are
+excluded from the active bird's-eye-only evaluation. See
+[the current trial set](birds-eye-trials.md). Their previous results are retained
+for traceability and must not be included in current performance summaries.
+
 ## Cause and change
 
 The first implementation was a green-marker detector, not an ordinary-pen

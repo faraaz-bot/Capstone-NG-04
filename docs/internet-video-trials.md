@@ -1,5 +1,9 @@
 # Internet video trials
 
+Historical record: current testing is restricted to bird's-eye footage. The
+angled clips in this report are excluded from the active set; see
+[the current trial set](birds-eye-trials.md).
+
 Three Pexels clips were downloaded and tested on November 12, 2026. Source pages,
 creators and exact download URLs are in [video-sources.json](video-sources.json).
 The [Pexels license](https://www.pexels.com/license/) allows free download and use.
