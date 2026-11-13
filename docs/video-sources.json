@@ -1,0 +1,32 @@
+{
+  "license": "https://www.pexels.com/license/",
+  "clips": [
+    {
+      "id": "4668324",
+      "author": "Vlada Karpovich",
+      "page": "https://www.pexels.com/video/person-writing-on-a-paper-with-a-pen-4668324/",
+      "download": "https://videos.pexels.com/video-files/4668324/4668324-hd_1920_1080_25fps.mp4",
+      "local": "test-media/pexels-4668324.mp4",
+      "purpose": "Overhead handwriting and pen-lift/hand-occlusion inspection; black pen, no green marker.",
+      "sha256": "fc30d7c0cd79c04a7c53b21ece921a0a791cfa1af4a725d124a7524318a6f0f9"
+    },
+    {
+      "id": "5391294",
+      "author": "Gustavo Fring",
+      "page": "https://www.pexels.com/video/a-person-writing-on-paper-5391294/",
+      "download": "https://videos.pexels.com/video-files/5391294/5391294-uhd_3840_2160_30fps.mp4",
+      "local": "test-media/pexels-5391294.mp4",
+      "purpose": "Oblique close-up of silver pen; negative control for green-marker detection.",
+      "sha256": "91f0c33c21cd7228eb2a17ef3b8367a27ffa7bb89ade6e3db994b215395cce82"
+    },
+    {
+      "id": "9573567",
+      "author": "Tima Miroshnichenko",
+      "page": "https://www.pexels.com/video/close-up-video-of-a-person-writing-on-a-paper-9573567/",
+      "download": "https://videos.pexels.com/video-files/9573567/9573567-uhd_4096_2160_25fps.mp4",
+      "local": "test-media/pexels-9573567.mp4",
+      "purpose": "Light-blue pen with blue/purple desk distractor and hand occlusion; exploratory colour retuning.",
+      "sha256": "12f232351f5a8b146dbff6f7e4bc3182165fcaf2e8c1a7cb97d8e74791f78119"
+    }
+  ]
+}

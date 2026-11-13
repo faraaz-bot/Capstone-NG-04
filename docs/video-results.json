@@ -1,0 +1,172 @@
+[
+  {
+    "video": "test-media/pexels-4668324.mp4",
+    "config": {
+      "hsv_lower": [
+        35,
+        80,
+        60
+      ],
+      "hsv_upper": [
+        85,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 25.0,
+    "original_size": [
+      1920,
+      1080
+    ],
+    "processing_scale": 0.6666666666666666,
+    "stride": 5,
+    "frames_decoded": 373,
+    "samples": 75,
+    "detections": 0,
+    "hand_detections": null,
+    "median_processing_ms": 2.416792000000001,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred.",
+    "trial": "4668324-green"
+  },
+  {
+    "video": "test-media/pexels-4668324.mp4",
+    "config": {
+      "hsv_lower": [
+        35,
+        80,
+        60
+      ],
+      "hsv_upper": [
+        85,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 25.0,
+    "original_size": [
+      1920,
+      1080
+    ],
+    "processing_scale": 0.6666666666666666,
+    "stride": 5,
+    "frames_decoded": 373,
+    "samples": 75,
+    "detections": 0,
+    "hand_detections": 75,
+    "median_processing_ms": 19.52595800000001,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred.",
+    "trial": "4668324-hands"
+  },
+  {
+    "video": "test-media/pexels-5391294.mp4",
+    "config": {
+      "hsv_lower": [
+        35,
+        80,
+        60
+      ],
+      "hsv_upper": [
+        85,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 29.97002997002997,
+    "original_size": [
+      3840,
+      2160
+    ],
+    "processing_scale": 0.3333333333333333,
+    "stride": 5,
+    "frames_decoded": 754,
+    "samples": 151,
+    "detections": 0,
+    "hand_detections": null,
+    "median_processing_ms": 1.6014169999998273,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred.",
+    "trial": "5391294-green"
+  },
+  {
+    "video": "test-media/pexels-9573567.mp4",
+    "config": {
+      "hsv_lower": [
+        90,
+        40,
+        40
+      ],
+      "hsv_upper": [
+        130,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 25.0,
+    "original_size": [
+      4096,
+      2160
+    ],
+    "processing_scale": 0.3125,
+    "stride": 5,
+    "frames_decoded": 291,
+    "samples": 59,
+    "detections": 59,
+    "hand_detections": null,
+    "median_processing_ms": 1.646334000000027,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred.",
+    "trial": "9573567-blue"
+  },
+  {
+    "video": "test-media/pexels-9573567.mp4",
+    "config": {
+      "hsv_lower": [
+        35,
+        80,
+        60
+      ],
+      "hsv_upper": [
+        85,
+        255,
+        255
+      ],
+      "min_area_px": 20,
+      "tip_offset_px": [
+        0,
+        0
+      ]
+    },
+    "fps": 25.0,
+    "original_size": [
+      4096,
+      2160
+    ],
+    "processing_scale": 0.3125,
+    "stride": 5,
+    "frames_decoded": 291,
+    "samples": 59,
+    "detections": 0,
+    "hand_detections": null,
+    "median_processing_ms": 2.022291000000065,
+    "note": "Candidate counts are not tracking accuracy. No contact or metric calibration is inferred.",
+    "trial": "9573567-green"
+  }
+]

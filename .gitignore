@@ -6,3 +6,5 @@ __pycache__/
 sessions/
 models/
 calibration.json
+test-media/
+reports/

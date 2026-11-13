@@ -98,6 +98,10 @@ The tests exercise synthetic marker detection, perspective mapping, stroke
 boundaries and stationary jitter. They do not establish physical accuracy.
 See [the project notes](docs/mcr-scope.md) for requirements and remaining work.
 
+Three downloaded writing clips were also tested. See the
+[internet video trials](docs/internet-video-trials.md) for sources, measured
+candidate counts, false matches, and a headless replay command.
+
 References: [OpenCV HSV thresholding](https://docs.opencv.org/4.x/da/d97/tutorial_threshold_inRange.html),
 [OpenCV perspective transforms](https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html),
 and [MediaPipe Hand Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python).
